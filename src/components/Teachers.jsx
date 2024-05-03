@@ -1,4 +1,4 @@
-const Teachers = () => {
+    const Teachers = () => {
   return (
     <div>Teachers</div>
   )

@@ -1,13 +1,16 @@
-nav {
+.nav {
+    height:80px;
+}
+.navs {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 0px 70px;
+    position: fixed;
     height: 80px;
     width: 100%;
+    top: 0px;
 }
-
-
-
 
 @media (max-width:1050px) {
     nav {

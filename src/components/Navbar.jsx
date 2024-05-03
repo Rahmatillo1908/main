@@ -2,11 +2,13 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <nav>
+    <div className="nav">
+    <nav className='navs'>
       <div></div>
-      <div></div>
+      <div>Pro Teach</div>
       <div></div>
     </nav>
+    </div>
   )
 }
 
